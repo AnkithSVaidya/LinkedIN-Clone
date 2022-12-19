@@ -1,3 +1,3 @@
 # LinkedIN-Clone
 
-Please click on the file link to get a detailed Readme instructions regarding the project
+Please click LinkedIn-Clone-main to get a detailed Readme instructions regarding the project
